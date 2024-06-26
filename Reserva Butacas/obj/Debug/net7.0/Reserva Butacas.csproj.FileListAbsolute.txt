@@ -1,0 +1,47 @@
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/appsettings.Development.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/appsettings.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Reserva Butacas
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Reserva Butacas.deps.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Reserva Butacas.runtimeconfig.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Reserva Butacas.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Reserva Butacas.pdb
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Npgsql.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.csproj.AssemblyReference.cache
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.AssemblyInfoInputs.cache
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.AssemblyInfo.cs
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.csproj.CoreCompileInputs.cache
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.MvcApplicationPartsAssemblyInfo.cs
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.MvcApplicationPartsAssemblyInfo.cache
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets.build.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets.development.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets/msbuild.Reserva Butacas.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets/msbuild.build.Reserva Butacas.props
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Reserva Butacas.props
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Reserva Butacas.props
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/scopedcss/bundle/Reserva Butacas.styles.css
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva .FB903064.Up2Date
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/refint/Reserva Butacas.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.pdb
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/Reserva Butacas.genruntimeconfig.cache
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/obj/Debug/net7.0/ref/Reserva Butacas.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Humanizer.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/System.CodeDom.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/nunit.framework.dll
+/Users/gabrielaramos/Reserva Butacas/Reserva Butacas/bin/Debug/net7.0/nunit.framework.legacy.dll
